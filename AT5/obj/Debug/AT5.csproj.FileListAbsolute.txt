@@ -1,0 +1,8 @@
+C:\Users\enzob\source\repos\AT5\bin\Debug\AT5.exe.config
+C:\Users\enzob\source\repos\AT5\bin\Debug\AT5.exe
+C:\Users\enzob\source\repos\AT5\bin\Debug\AT5.pdb
+C:\Users\enzob\source\repos\AT5\obj\Debug\AT5.csproj.AssemblyReference.cache
+C:\Users\enzob\source\repos\AT5\obj\Debug\AT5.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzob\source\repos\AT5\obj\Debug\AT5.csproj.CoreCompileInputs.cache
+C:\Users\enzob\source\repos\AT5\obj\Debug\AT5.exe
+C:\Users\enzob\source\repos\AT5\obj\Debug\AT5.pdb
